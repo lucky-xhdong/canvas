@@ -1,0 +1,102 @@
+*{
+	tap-highlight-color: transparent;
+	-webkit-tap-highlight-color: transparent;
+}
+body {
+	margin: 0;
+	background: #000;
+}
+
+canvas {
+	background: #000;
+}
+
+/*
+@font-face {
+	font-family: 'I';
+	src: url('../../fonts/HYB1GJM.TTF') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HYDaHeiJ';
+	src: url('../../fonts/HYB2GJM_0.TTF') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'SimSun';
+	src: url('../../fonts/simsun.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'KaiTi';
+	src: url('../../fonts/simkai.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Times New Roman';
+	src: url('../../fonts/times.TTF') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Times New Roman';
+	
+	src: url('../../fonts/timesbd.TTF') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Times New Roman';
+
+	src: url('../../fonts/timesbi.TTF') format('truetype');
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Times New Roman';
+
+	src: url('../../fonts/timesi.TTF') format('truetype');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'MMSchoolRD';
+	src: url('../../fonts/MMSchoolRD-Regular-1.TTF') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'MMSchoolRD';
+	
+	src: url('../../fonts/MMSchoolRD-Bold-1.TTF') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'MMSchoolRD';
+
+	src: url('../../fonts/MMSchoolRD-BoldItalic-1.TTF') format('truetype');
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'MMSchoolRD';
+
+	src: url('../../fonts/MMSchoolRD-Italic-1.TTF') format('truetype');
+	font-weight: normal;
+	font-style: italic;
+}*/
